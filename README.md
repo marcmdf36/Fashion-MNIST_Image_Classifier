@@ -29,6 +29,8 @@ Decisiones clave: BatchNormalization para estabilizar el entrenamiento, GlobalAv
 - Callbacks: EarlyStopping, ReduceLROnPlateau, ModelCheckpoint, CSVLogger
 - Reproducibilidad garantizada mediante semilla global fija (SEED = 42)
 
+Test accuracy: 88.96%
+
 ## Uso
 
 ```bash
